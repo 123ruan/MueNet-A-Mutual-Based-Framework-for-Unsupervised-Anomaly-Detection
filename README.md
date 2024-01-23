@@ -35,5 +35,6 @@ You can acquire a heatmap about input data and another about feature data by che
 
 ### Results
 
-<img src="https://github.com/123ruan/MueNet-A-Mutual-Based-Framework-for-Unsupervised-Anomaly-Detection/blob/main/img/Numerical2.png" alt="Numerical2" width="800px" />
-
+<div align=center>
+<img src="https://github.com/123ruan/MueNet-A-Mutual-Based-Framework-for-Unsupervised-Anomaly-Detection/blob/main/img/Numerical2.png" alt="Numerical2" style="width:2%;" />
+</div>

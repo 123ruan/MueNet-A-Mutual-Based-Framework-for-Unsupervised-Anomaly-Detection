@@ -5,7 +5,7 @@
 We propose the MueNet as follows, which comprises three submodules: the local information extraction module (L-module), the supplementary learning of residual information module (S-module), and the global representation generation module (G-module). These modules collectively enhance the model’s capability to learn local content, supplement residual content, and generate global representation. The MueNet learning process is guided by a multitask entropy loss function. 
 
 <div align=center>
-<img src="https://github.com/123ruan/MueNet-A-Mutual-Based-Framework-for-Unsupervised-Anomaly-Detection/blob/main/img/MueNet5.png" alt="The MueNet structure." width="800px" />
+<img src="https://github.com/123ruan/MueNet-A-Mutual-Based-Framework-for-Unsupervised-Anomaly-Detection/blob/main/img/MueNet5.png" alt="The MueNet structure." style="width:50%;" />
 </div>
 
 
